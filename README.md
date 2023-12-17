@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojithBhat&show_icons=true&locale=en&layout=compact" alt="manojithbhat" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ManojithBhat&show_icons=true&locale=en" alt="manojithbhat" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojithBhat&" alt="manojithbhat" /></p>
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ManojithBhat&" alt="manojithbhat" /></p> -->
